@@ -1,4 +1,4 @@
-# install_ansible_ubuntu_14_04
+# install_ansible_on_ubuntu
 
 # Update
 
